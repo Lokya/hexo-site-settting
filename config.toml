@@ -1,4 +1,125 @@
-baseURL = "http://example.org/"
+baseURL = "https://lokya.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Lokya"
 theme = "hugoLog-theme"
+
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = "lokya  lokyaBlog"
+
+[Permalinks]
+ posts = "/:year/:filename/"
+
+ [menu]
+  [[menu.main]]
+    name = "博客"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "归档"
+    url = "/categories/"
+    weight = 3
+
+  [[menu.main]]
+    name = "关于"
+    url = "/about"
+    weight = 4
+
+[params]
+    since = 2019
+    author = "lokya"
+    subtitle = "每日三省吾身，早饭吃什么！午饭吃什么！晚饭吃什么！"
+    cdn_url = ""
+    home_mode = ""
+
+    google_verification = ""
+    bing_verification = ""
+    yandex_verification = ""
+    pinterest_verification = ""
+    baidu_verification = ""
+    
+    avatar = "/images/avatar.JPG"
+    socialShare = true
+    
+    description = "" # site description
+    keywords = "" # site keywords
+
+
+[params.social]
+    GitHub = "Lokya"
+    Twitter = "Lokya_li"
+    Zhihu = "qistar-hlikan"
+    #Gitlab = "xxxx"
+    #Youtubelegacy = "xxxx"
+    #Youtubecustom = "xxxx"
+    #Youtubechannel = "xxxx"
+    #Tumblr ="xxxx"
+    #Quora = "xxxx"
+    #Keybase = "xxxx"
+    #Pinterest = "xxxx"
+    #Reddit = "xxxx"
+    #Codepen = "xxxx"
+    #Bitbucket = "xxxx"
+    #Stackoverflow = "xxxxx"
+    #Weibo = "xxxx"
+    #Odnoklassniki = "xxxx"
+    #VKontakte = "xxxx"
+    #Flickr = "xxxx"
+    #Xing = "xxxx"
+    #Snapchat = "xxxx"
+    #Soundcloud = "xxxx"
+    #Spotify = "xxxx"
+    #Bandcamp = "xxxx"
+    #Paypal = "xxxx"
+    #Fivehundredpx = "xxxx"
+    #Mix = "xxxx"
+    #Goodreads = "xxxx"
+    #Lastfm = "xxxx"
+    #Foursquare = "xxxx"
+    #Hackernews = "xxxx"
+    #Kickstarter = "xxxx"
+    #Patreon = "xxxx"
+    #Steam = "xxxx"
+    #Twitch = "xxxx"
+    #Strava = "xxxx"
+    #Skype = "xxxx"
+    #Whatsapp = "xxxx"
+    #Douban = "xxxx"
+    #Angellist = "xxxx"
+    #Slidershare = "xxxx"
+    #Jsfiddle = "xxxx"
+    #Deviantart = "xxxx"
+    #Behance = "xxxx"
+    #Dribble = "xxxx"
+    #Wordpress = "xxxx"
+    #Vine = "xxxx"
+    #Googlescholar = "xxxx"
+    #Researchgate = "xxxx"
+    #Mastodon = "xxxx"
+    #Thingiverse = "xxxx"
+
+# Used only for Seo schema 
+copyright = "my blog"
+
+[author]
+  name = "lokya"
+
+  [params.publisher]
+    name = "lokya"
+
+    [params.publisher.logo]
+      url = "logo.png"
+      width = 127
+      height = 40
+
+  [params.logo]
+    url = "logo.png"
+    width = 127
+    height = 40
+
+  [params.image]
+    url = "cover.png"
+    width = 800
+    height = 600
