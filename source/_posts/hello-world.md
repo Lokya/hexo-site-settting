@@ -1,38 +1,17 @@
 ---
-title: Hello World
+title: 源
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+# 源
 
-### Create a new post
+## 原因
 
-``` bash
-$ hexo new "My New Post"
-```
+我一直是一个不太喜欢写博客和文章的人，从业这么久，不喜欢去csdn或者博客园去发布文章。总觉得有时间还是看看书，娱乐娱乐比较好。忽然觉得有一个属于自己的地方，发点自己想想写的挺不错的。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## 打算
 
-### Run server
+想利用这个博客写点自己的东西，不论是技术分享还是技术笔记，或者生活杂记，都记录下来。例如拍个照片，可以发上来，这是一种记忆。
 
-``` bash
-$ hexo server
-```
+## Emmmm
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+其实也不知道说什么好，总之，希望利用好这个博客吧。
