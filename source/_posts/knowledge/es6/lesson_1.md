@@ -1,7 +1,14 @@
 ---
 title: ES6-变量
-categories: javascript
+categories: [javascript]
+tags:
+    - javascript
+    - ES6
 ---
+
+## let
+
+### 代码块、作用域、不存在变量提升、暂时性死区
 
 # 变量
 

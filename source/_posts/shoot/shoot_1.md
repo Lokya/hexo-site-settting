@@ -1,7 +1,10 @@
 ---
 title: 个人摄影 - 第一期
-description: 随时记录生活中的美景
+description: 拍照摄影
 categories: 拍照摄影
+coverImg: /images/shoot/img_20180519.jpg
+tags:
+    - 拍照摄影
 ---
 
 ![img](/images/shoot/img_20180519.jpg '雨后，公司旁边的黄色花朵')
