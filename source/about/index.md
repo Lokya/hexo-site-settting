@@ -1,15 +1,15 @@
 ---
 layout: page
-title: 关于
+title: 简介
 body: [article, grid, comments]
 meta:
-  header: false
+  # header: false
   footer: false
-valine:
-  placeholder: 有什么想对我说的呢？
 sidebar: false
 ---
 
-# 自我介绍？！
+# I am lokya
 
-哈哈哈 暂时不知道说什么，先占个坑
+我欲乘风归去，又恐琼楼玉宇，高处不胜寒，起舞弄清影，何似在人间。。。。。。
+
+先写这么多吧。。。。。
