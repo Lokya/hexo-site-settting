@@ -1,6 +1,6 @@
 ---
 title: ES6-变量
-categories: [javascript]
+categories: javascript
 tags:
     - javascript
     - ES6
