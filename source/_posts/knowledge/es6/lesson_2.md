@@ -1,5 +1,5 @@
 ---
-title: 变量的解构
+title: ES6-变量的解构
 categories: javascript
 tags:
     - javascript
