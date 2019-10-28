@@ -1,5 +1,5 @@
 ---
-title: "node" is incompatible with this module
+title: node is incompatible with this module
 categories: node
 tags:
     - node
