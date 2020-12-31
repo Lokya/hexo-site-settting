@@ -66,4 +66,4 @@ tags:
 
 ## 2021 我来了 ！！！
 
-![img](/images/miscellany/goodbye.png '再见2020，你好2021')
+![img](/images/miscellany/goodbye.jpg '再见2020，你好2021')
